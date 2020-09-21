@@ -14,8 +14,8 @@ role: Sophomore
 
 # Organizations/Affiliations
 organizations:
-- name: Thapar University
-  url: "http://www.thapar.edu/"
+- name: AGUPTA33_BE19@THAPAR.EDU
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am generally interested in deep learning algorithms for computer vision. I love to actively contribute in OpenSource and take part in kaggle competitions.
@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+- icon: linkedin
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'https://www.linkedin.com/in/animesh721/'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Animesh0072
