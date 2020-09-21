@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "I’m Something of a Painter Myself"
+  organization_url = "https://www.kaggle.com/c/gan-getting-started/overview"
+  title = "Secured Top 1%"
+  url = "https://www.kaggle.com/c/gan-getting-started/leaderboard"
+  <!-- certificate_url = "https://www.coursera.org" -->
+  date_start = "2020-09-05"
   date_end = ""
-  description = ""
+  description = "A challenge to build a GAN that generates 7,000 to 10,000 Monet-style images."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Google Landmark Recognition 2020"
+  organization_url = "https://www.kaggle.com/c/landmark-recognition-2020"
+  title = "Secured Top 22%"
+  url = "https://www.kaggle.com/c/landmark-recognition-2020/leaderboard"
+  <!-- certificate_url = "https://www.edx.org" -->
+  date_start = "2020-08-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Developed a classification model for predicting landmark labels using GLDv2 dataset."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "JEE MAINS 2019"
+  organization_url = "#"
+  title = "Secured Top 6.5%"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "#"
+  <!-- date_start = "2017-07-01"
+  date_end = "2017-12-21" -->
+  description = "JEE Mains is an entrance exam to get an admit into IITs,NITs and other premier engineering institutes in India."
 
 +++
