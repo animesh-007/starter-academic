@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Secured Top 6.5%"
   url = ""
   certificate_url = ""
-  date_start = "" 
+  date_start = "2019-08-01" 
   date_end = "" 
   description = "JEE Mains is an entrance exam to get an admit into IITs,NITs and other premier engineering institutes in India."
 
