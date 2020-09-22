@@ -1,24 +1,45 @@
 +++
-# Contact widget.
-widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Experience widget.
+widget = "contribution"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-title = "Contact"
+title = "contribution"
 subtitle = ""
 
-# Automatically link email and phone?
-autolink = true
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2020"
 
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 2
+# Experiences.
+#   Add/remove as many `[[contribution]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[contribution]]
+  title = ""
+  company = "Openstreetmap"
+  company_url = "https://github.com/openstreetmap/iD/commits?author=animesh-007"
+  location = ""
+  date_start = "2020"
+  date_end = ""
+  description = """
+  To make new geo-locations accessible to new mappers added several new presets.
+  # Responsibilities include:
+  
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  """
 
-# Netlify form settings.
-[netlify]
-  captcha = false  # Enable CAPTCHA challenge to reduce spam?
+[[experience]]
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
 +++
-
