@@ -69,6 +69,6 @@ email: ""
 # - Visitors
 ---
 
-I'm a second year Electronics and Computer Engineering undergraduate student [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I love to actively contribute in OpenSource and take part in kaggle competitions.
+I'm a second year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I love to actively contribute in OpenSource and take part in kaggle competitions.
 
 
