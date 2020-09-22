@@ -15,7 +15,7 @@ role: Sophomore
 # Organizations/Affiliations
 organizations:
 - name: AGUPTA33_BE19@THAPAR.EDU
-  url: ""
+  url: "#"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am generally interested in deep learning algorithms for computer vision. I love to actively contribute in OpenSource and take part in kaggle competitions.
