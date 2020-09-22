@@ -9,14 +9,15 @@ active: true
 # This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 15
 
-title: Demos
+# Order that this section appears on the page.
+weight: 30
+
+title: Contributions
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     text_color_light: False
   spacing:
@@ -27,15 +28,6 @@ Welcome to the demo of the **resumé template** for Academic.
 
 [View more templates](https://sourcethemes.com/academic/templates/) for Academic.
 
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
 
 **Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
 
