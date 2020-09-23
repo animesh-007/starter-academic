@@ -20,8 +20,13 @@
 
  [[main]]
   name = "Contribution"
-  url = "#demo"
+  url = "#contribution"
   weight = 30
+
+# [[main]]
+#  name = "Ongoing"
+#  url = "#about"
+#  weight = 10
 
 # [[main]]
 # name = "Publications"

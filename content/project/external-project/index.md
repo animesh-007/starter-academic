@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: AI for Blind
+summary: Developed a classification model for predicting seven emotions like (angry, disgusted,fearful, happy, neutral, sad and surprised) using FER-2013 dataset.
 tags:
 - Demo
-date: "2016-04-27T00:00:00Z"
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://github.com/animesh-007/emotiondetector
 
 image:
   caption: Photo by Toa Heftiba on Unsplash

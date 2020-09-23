@@ -11,9 +11,9 @@ headless: true
 
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Contributions
+title: Ongoing Projects
 subtitle:
 
 design:
@@ -22,15 +22,11 @@ design:
     text_color_light: False
   spacing:
     padding: ["20px", "0", "20px", "0"]
+  view: "4"
 ---
 
-Welcome to the demo of the **resumé template** for Academic.
+**I’m Something of a Painter Myself**: Building a GAN that generates 7,000 to 10,000 Monet-style images.
 
-[View more templates](https://sourcethemes.com/academic/templates/) for Academic.
-
-
-**Over 500,000 [Amazing Websites](https://sourcethemes.com/academic/) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+**Indian sign language**: Developing a Classification model to predict different signs using Indian sign language dataset.
 
 
