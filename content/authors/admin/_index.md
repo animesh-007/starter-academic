@@ -22,7 +22,7 @@ bio: I am generally interested in deep learning algorithms for computer vision. 
 interests:
 - Computer Vision
 - Deep Learning
-- Machine Learning
+- Reinforcement Learning
 
 education:
   courses:
@@ -69,6 +69,10 @@ email: ""
 # - Visitors
 ---
 
-I'm a second year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I love to actively contribute in OpenSource and take part in kaggle competitions.
+I'm a second year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I work on research projects dealing with Object Detection,        semantaic/instance segementation, and Generative Adversarial Networks.
+
+I'm also working as a **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) in which I'm working on self driving car project. I was fortunate to spend my winters during my undergraduate studies at [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/), where I was supervised by [Dr. Mohammed Javed](http://scholar.google.co.in/citations?user=EN6ZZmgAAAAJ&hl=en). My research interest includes hand-pose estimatin, road segmentation, and scene-text detection.
+
+
 
 

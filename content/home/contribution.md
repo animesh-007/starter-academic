@@ -21,7 +21,7 @@ design:
   background:
     text_color_light: False
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["50px", "0", "50px", "0"]
   view: "4"
 ---
 [Openstreetmap](https://github.com/openstreetmap/iD/commits?author=animesh-007)    
@@ -29,6 +29,9 @@ design:
 
 [CircuitVerse](https://github.com/CircuitVerse/CircuitVerseDocs)  
 * Added improvements (like modals, dark mode bugs) for enhancing the use of GUI interface. 
+
+[D2l study Group](https://github.com/developer-student-club-thapar/d2l-study-group)  
+* Maintainer of the study group with daily discussions with the students of our college on the  book **Dive into deep learning**.
 
 [DSC (Thapar University)-officialWebsite](https://github.com/developer-student-club-thapar/officialWebsite)  
 * Improved repository readability for new user navigation.  

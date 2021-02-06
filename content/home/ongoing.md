@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -25,8 +25,7 @@ design:
   view: "4"
 ---
 
-**I’m Something of a Painter Myself**: Building a GAN that generates 7,000 to 10,000 Monet-style images.
-
 **Indian sign language**: Developing a Classification model to predict different signs using Indian sign language dataset.
+
 
 

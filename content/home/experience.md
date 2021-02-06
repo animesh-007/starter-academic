@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Engineer"
+  company = "Minus Zero"
+  company_url = "https://minuszero.in/"
+  location = "Patiala"
+  date_start = "2020-10-01"
   date_end = ""
-  description = """
+  description = """Working on Road segmentation and object detection for autonomous vehicles.
   Responsibilities include:
   
-  * Analysing
+  * Data Pipeline
   * Modelling
-  * Deploying
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "Indian Institute of Information Technology Allahabad"
+  company_url = "https://www.iiita.ac.in/"
+  location = "Allahabad"
+  date_start = "2020-09-01"
+  date_end = "2021-02-01"
+  description = """ Worked on scene text detection problem with state of the art model.
+  Responsibilities include:
+  
+  * Testing various kind of neural networks
+  * Modelling
+
+  """
 
 +++

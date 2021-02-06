@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Google Landmark Recognition 2020"
   organization_url = "https://www.kaggle.com/c/landmark-recognition-2020"
-  title = "Secured Top 22%"
+  title = "Secured Top 42%"
   url = "https://www.kaggle.com/c/landmark-recognition-2020/leaderboard"
   certificate_url = ""
   date_start = "2020-08-01"
