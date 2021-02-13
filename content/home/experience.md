@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Engineer"
+  title = "Research Engineer (Part-time)"
   company = "Minus Zero"
   company_url = "https://minuszero.in/"
   location = "Patiala"
-  date_start = "2020-10-01"
+  date_start = "2020-11-01"
   date_end = ""
   description = """Working on Road segmentation and object detection for autonomous vehicles.
   Responsibilities include:
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Indian Institute of Information Technology Allahabad"
   company_url = "https://www.iiita.ac.in/"
   location = "Allahabad"
-  date_start = "2020-09-01"
-  date_end = "2021-02-01"
+  date_start = "2020-11-01"
+  date_end = "2021-01-01"
   description = """ Worked on scene text detection problem with state of the art model.
   Responsibilities include:
   

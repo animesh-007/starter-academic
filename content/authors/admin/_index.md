@@ -69,6 +69,6 @@ email: ""
 # - Visitors
 ---
 
-I’m a second-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I work on research projects dealing with Object Detection, semantic/instance segmentation, and Generative Adversarial Networks.
+I’m a second-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I work on research projects dealing with Object Detection, Semantic, and Instance Segmentation.
 
-I'm also working as a **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) in which I’m working on a self-driving car project. I was fortunate to spend my winters during my undergraduate studies at the [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/), where I was supervised by [Dr. Mohammed Javed](http://scholar.google.co.in/citations?user=EN6ZZmgAAAAJ&hl=en). My research interest includes hand-pose estimation, road segmentation, and scene-text detection.
+I'm also working as a part-time **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) in which I’m working on a self-driving car project. I was fortunate to spend my winters in 2020 at the [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/), where I was supervised by [Dr. Mohammed Javed](http://scholar.google.co.in/citations?user=EN6ZZmgAAAAJ&hl=en). My research interest includes hand-pose estimation, road segmentation, and scene-text detection.

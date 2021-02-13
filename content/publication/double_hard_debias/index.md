@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation"
-authors: [Haswanth Aekula, Sugam Garg,Animesh Gupta*]
+title: "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation (under Review)"
+authors: [Haswanth Aekula, Sugam Garg,Animesh Gupta]
 date: 2021-01-31T01:41:03+05:30
 doi: ""
 
@@ -16,13 +16,13 @@ publishDate: 2021-02-08T01:41:03+05:30
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ML Reproducibility Challenge 2020 - under Review (Blind submission)"
+publication: "ML Reproducibility Challenge 2020 - under Review"
 publication_short: ""
 
 abstract: "Despite widespread use in natural language processing (NLP) tasks, word embeddings have been criticized for inheriting unintended gender bias from training corpora. Previous methods highlight that in word2vec embeddings trained on the Google News dataset, “programmer” is more closely associated with “man” and “homemaker” is more closely associated with “woman”.  Such gender bias has also been shown to propagate in downstream tasks.  Despite plenty of work in this field, with methods ranging from corpus level modification to post-training modifications to embeddings, it remains an unsolved problem. With this work, the authors combine two techniques to reduce gender bias in embeddings. First, they argue that the frequency of words in the corpus adds to the bias. And thus use the work of to remove the frequency component from trained embeddings. Second, they use the hard debias algorithm, to remove the gender direction from the trained embeddings of most biased words. Combining these two techniques, they benchmark the result of their40algorithm by showcasing reduction in bias and limited loss of information in the resultant word embeddings."
 
 # Summary. An optional shortened abstract.
-summary: "Programmer” is more closely associated with “man” and “homemaker” is more closely associated with “woman”.  Such gender bias has also been shown to propagate in downstream tasks."
+summary: '"Programmer” is more closely associated with “man” and “homemaker” is more closely associated with “woman”.  Such gender bias has also been shown to propagate in downstream tasks.'
 
 tags: [Gender Bias, Word Embeddings]
 categories: []
