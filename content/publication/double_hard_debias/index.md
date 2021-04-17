@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation (under Review)"
+title: "Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation"
 authors: [Haswanth Aekula, Sugam Garg,Animesh Gupta]
 date: 2021-01-31T01:41:03+05:30
 doi: ""
