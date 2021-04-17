@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am generally interested in deep learning algorithms for computer vision. I love to actively contribute in OpenSource and take part in kaggle competitions.
+bio: I am generally interested in deep learning algorithms for computer vision. I have been involved in the development of projects on Image classification, Semantic segmentation, Instance Segmentation, and Instance Recognition. I love to actively contribute in OpenSource and take part in kaggle competitions.
 interests:
 - Computer Vision
 - Deep Learning
@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: B.Tech in Electronics and Computer Engineering
+  - course: Bachelor's in Electronics and Computer Engineering
     institution: Thapar University
     year: 2023
   # - course: MEng in Artificial Intelligence
@@ -41,6 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/animesh-007 
 - icon: linkedin
   icon_pack: fab
   link: 'https://www.linkedin.com/in/animesh721/'  # For a direct email link, use "mailto:test@example.org".
@@ -50,9 +53,6 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/animesh-007 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,6 @@ email: ""
 # - Visitors
 ---
 
-I’m a second-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I work on research projects dealing with Object Detection, Semantic, and Instance Segmentation.
+I’m a second-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I have been involved in the development of projects on Image classification, Semantic segmentation, Instance Segmentation, and Instance Recognition. I love to actively contribute in OpenSource and take part in kaggle competitions.
 
 I'm also working as a part-time **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) in which I'm working on an autonomous electric car with level 5 autonomy. I was fortunate to spend my winters in 2020 at the [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/), where I was supervised by [Dr. Mohammed Javed](http://scholar.google.co.in/citations?user=EN6ZZmgAAAAJ&hl=en). My research interest includes hand-pose estimation, road segmentation, and scene-text detection.
