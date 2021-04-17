@@ -69,6 +69,6 @@ email: ""
 # - Visitors
 ---
 
-I’m a second-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I have been involved in the development of projects on Image classification, Semantic segmentation, Instance Segmentation, and Instance Recognition. I love to actively contribute in OpenSource and take part in kaggle competitions.
+I’m a second-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I have been involved in the development of projects on Image classification, Semantic segmentation, Instance Segmentation, and Instance Recognition. I love to actively contribute in OpenSource and take part in kaggle competitions.
 
 I'm also working as a part-time **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) in which I'm working on an autonomous electric car with level 5 autonomy. I was fortunate to spend my winters in 2020 at the [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/), where I was supervised by [Dr. Mohammed Javed](http://scholar.google.co.in/citations?user=EN6ZZmgAAAAJ&hl=en). My research interest includes hand-pose estimation, road segmentation, and scene-text detection.
