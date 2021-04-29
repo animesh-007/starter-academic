@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://minuszero.in/"
   location = "Patiala"
   date_start = "2020-11-01"
-  date_end = ""
+  date_end = "2021-03-01"
   description = """Working on Road segmentation and object detection for autonomous vehicles.
   Responsibilities include:
   
