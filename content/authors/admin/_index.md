@@ -14,7 +14,7 @@ role: Sophomore
 
 # Organizations/Affiliations
 organizations:
-- name: agupta33_be19@thapar.edu
+- name: animeshgupta.thapar(at)gmail.com
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,3 +72,14 @@ email: ""
 I’m a second-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I have been involved in the development of projects on Image classification, Semantic segmentation, Instance Segmentation, and Instance Recognition. I love to actively contribute in OpenSource and take part in kaggle competitions.
 
 I have worked as a part-time **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) where I worked on an autonomous electric car with level 5 autonomy. I was fortunate to spend my winters in 2020 at the [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/), where I was supervised by [Dr. Mohammed Javed](http://scholar.google.co.in/citations?user=EN6ZZmgAAAAJ&hl=en). My research interest includes hand-pose estimation, road segmentation, and scene-text detection.
+
+### News
+- `[June 2021]` Got selected for Weights & Biases Machine Learning Reproducibility Challenge, Spring 2021 Grant.
+- `[June 2021]` Got selected for Prairie/MIAI Summer School 2021, INRIA.
+- `[May 2021]` Volunteering for the ICLR Conference 2021.
+- `[June 2020]` Got selected for Gaussian Process Summer School 2020, Sheffield University.
+- `[September 2020]` Won Bronze Metal for Kaggle Notebook in I’m Something of a Painter Myself challenge.
+- `[July 2020]` Top 42% Worldwide in Google Landmark Recognition 2020.
+
+
+
