@@ -76,10 +76,7 @@ I have worked as a part-time **Research Engineer** at a startup [Minus Zero](htt
 ### News
 - `[June 2021]` Got selected for Weights & Biases Machine Learning Reproducibility Challenge, Spring 2021 Grant.
 - `[June 2021]` Got selected for Prairie/MIAI Summer School 2021, INRIA.
-- `[May 2021]` Volunteering for the ICLR Conference 2021.
+- `[May 2021]` Volunteered for the ICLR Conference 2021.
 - `[June 2020]` Got selected for Gaussian Process Summer School 2020, Sheffield University.
 - `[September 2020]` Won Bronze Metal for Kaggle Notebook in I’m Something of a Painter Myself challenge.
 - `[July 2020]` Top 42% Worldwide in Google Landmark Recognition 2020.
-
-
-
