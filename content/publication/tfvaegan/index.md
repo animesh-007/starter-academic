@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://drive.google.com/file/d/1Xd4qCYkZo2JvLcA_F6pnLEE7AEO21u50/view?usp=sharing
 url_code: https://github.com/channelCS/ZSL_Generative
 url_dataset:
 url_poster:
