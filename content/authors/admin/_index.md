@@ -71,7 +71,7 @@ email: ""
 
 I’m a third-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). My research focus is broadly centered around **Computer Vision** and **Deep Learning**. I work on research projects dealing with Generative Adversarial Networks, Knowledge Distillation, and zero-shot classificatiom. I intend to explore deep model under low-resource training data scenario using **semi-supervised** and **self-supervised** paradigm.
 
-I have worked as a **Research Intern** at [SketchX Labs](http://sketchx.eecs.qmul.ac.uk/) and [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). I have also worked as a part-time **Research Engineer**at a startup [Minus Zero](https://minuszero.in/) where I worked on an autonomous electric car with level 5 autonomy.
+I have worked as a **Research Intern** at [SketchX](http://sketchx.eecs.qmul.ac.uk/) and [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). I have also worked as a part-time **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) where I worked on an autonomous electric car with level 5 autonomy.
 
 ### News
 
