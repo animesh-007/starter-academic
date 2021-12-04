@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sophomore
+role: ""
 
 # Organizations/Affiliations
 organizations:
@@ -69,11 +69,12 @@ email: ""
 # - Visitors
 ---
 
-I’m a second-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). I am generally interested in deep learning algorithms for computer vision. I have been involved in the development of projects on Image classification, Semantic segmentation, Instance Segmentation, and Instance Recognition. I love to actively contribute in OpenSource and take part in kaggle competitions.
+I’m a third-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). My research focus is broadly centered around **Computer Vision** and **Deep Learning**. I work on research projects dealing with Generative Adversarial Networks, Knowledge Distillation, and zero-shot classificatiom. I intend to explore deep model under low-resource training data scenario using **semi-supervised** and **self-supervised** paradigm.
 
-I have worked as a part-time **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) where I worked on an autonomous electric car with level 5 autonomy. I was fortunate to spend my winters in 2020 at the [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/), where I was supervised by [Dr. Mohammed Javed](http://scholar.google.co.in/citations?user=EN6ZZmgAAAAJ&hl=en). My research interest includes hand-pose estimation, road segmentation, and scene-text detection.
+I have worked as a **Research Intern** at [SketchX Labs](http://sketchx.eecs.qmul.ac.uk/) and [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). I have also worked as a part-time **Research Engineer**at a startup [Minus Zero](https://minuszero.in/) where I worked on an autonomous electric car with level 5 autonomy.
 
 ### News
+
 - `[June 2021]` Got selected for Weights & Biases Machine Learning Reproducibility Challenge, Spring 2021 Grant.
 - `[June 2021]` Got selected for Prairie/MIAI Summer School 2021, INRIA.
 - `[May 2021]` Volunteered for the ICLR Conference 2021.
