@@ -20,33 +20,64 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "SketchX"
-  company_url = "http://sketchx.eecs.qmul.ac.uk/"
+  company = """UiT Norway """
+  company_url = "https://en.uit.no/"
   location = "Remote"
-  date_start = "2021-07-01"
-  date_end = "2021-12-01"
-  description = """Created a solution for training a model without any dataset with a minimal difference in accuracy of 3%, as compared with a model trained using the dataset.”.
-  Responsibilities include:
+  date_start = "2022-05-01"
+  date_end = ""
+  description = """Comparing the performance of ResNet and ViT models when trained using the subset of the dataset with different percentages of entire dataset (CIFAR10, CIFAR100, Medical Imaging dataset) (1%, 5%, 10%, and so on). 
   
-  * Reproduced and verified the codebases of the latest Knowledge Distillation papers.
-  * Discussing daily findings with the supervisor.
-
+  
+  * Subsets are created in a manner such that training model results in performance with minimal loss when compared to entire dataset.
+  * Examining the effects of using the pretrained weights and random initialized models on the subsets of training data.
+  
   """
 
 [[experience]]
   title = "Research Intern"
-  company = "Inception Institute of Artificial Intelligence"
-  company_url = "http://www.inceptioniai.org/"
+  company = "NVIDIA"
+  company_url = "https://www.nvidia.com/en-in/"
   location = "Remote"
-  date_start = "2021-04-01"
-  date_end = "2021-06-01"
-  description = """Worked on reimplementing and verifying the claims made in the ECCV 2020 paper titled “Latent Embedding Feedback and Discriminative Features for Zero-Shot Classification”.
+  date_start = "2022-03-01"
+  date_end = "2025-05-01"
+  description = """Experimented with latest Real-Time Lane Detection work and vision transformers for an improved solution for [DRIVE-Perceptron](https://developer.nvidia.com/drive/drive-perception) platform with faster inference and performance.
   Responsibilities include:
   
-  * Conducted different experiments and ported the code to latest PyTorch version.
-  * Wrote a techincal report consisting of details about the experiments.
+  * Done literature survey and tested recent solution on Real-Time Lane Detection.
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "SketchX"
+  company_url = "http://sketchx.eecs.qmul.ac.uk/"
+  location = "Remote"
+  date_start = "2021-07-01"
+  date_end = "2022-03-01"
+  description = """Worked on Fine-Grained Sketch Based Image Retrieval and Category-Level Sketch Based Image Retrieval.
+  Responsibilities include:
+  
+  * Developed techniques for Datafree Category Level Sketch Based Image Retrieval.
+  * Used Explainable AI techniques to identify the importance of particular strokes in the sketch images.
+  * Extracted 3D models and 2D images by scraping websites for new datasets of shoes and chairs.
+  * Contributed to one of the papers which created an adaptive Fine-Grained Sketch-Based Image Retrieval model. It adapts to new categories or different sketching patterns at test time, published in **ECCV 2022**.
 
   """
+
+[[experience]]
+  title = "Intern"
+  company = "GirlScript Summer of Code"
+  company_url = "https://gssoc.girlscript.tech//"
+  location = "Remote"
+  date_start = "2021-03-01"
+  date_end = "2022-06-01"
+  description = """Worked on adding architectural examples and demos to different Open Source repository.
+  Responsibilities include:
+  
+  * [Face-X](https://github.com/akshitagupta15june/Face-X): Added NasNet and Xception model architecture for Face Recognition.
+  * [Comet.Box](https://github.com/Comet-AI/Comet.Box): Added YOLOv5 example for the object detection.
+  """
+
+
 
 [[experience]]
   title = "Research Engineer (Part-time)"
@@ -55,10 +86,10 @@ date_format = "Jan 2006"
   location = "Patiala"
   date_start = "2020-11-01"
   date_end = "2021-03-01"
-  description = """Worked on the road segmentation problem for autonomous cars in India.
+  description = """Worked on the Road Segmentation problem for autonomous cars in India.
   Responsibilities include:
   
-  * Data Pipeline
+  * Used FCHarDNet as base architecture and trained on the *Indian driving dataset* (10k images and 34 classes).
   * Modelling
 
   """

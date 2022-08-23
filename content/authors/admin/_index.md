@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am generally interested in deep learning algorithms for computer vision. I have been involved in the development of projects on Image classification, Semantic segmentation, Instance Segmentation, and Instance Recognition. I love to actively contribute in OpenSource and take part in kaggle competitions.
+bio: I am generally interested in deep learning algorithms for computer vision. I have been involved in the development of projects on Image classification, Sketch-Based Image Retrieval, Data-Efficient Training, and Semantic segmentation. I am currently working on training ViT models data efficiently and also on Sketch-Based Image Retrieval problems.
 interests:
+- Knowledge Distillation
 - Computer Vision
 - Deep Learning
-- Reinforcement Learning
 
 education:
   courses:
@@ -50,9 +50,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Animesh0072
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.co.uk/citations?user=CZvlGXcAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,16 +68,17 @@ email: ""
 # - Researchers
 # - Visitors
 ---
+I’m a Final-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). My research focus is broadly centered around **Computer Vision** and **Deep Learning**. I work on research projects dealing with Generative Adversarial Networks, Knowledge Distillation, and zero-shot classification. I intend to explore the neural networks under the low-resource training data scenario using **Knowledge Distillation** and and the **Efficient Subset selection** paradigm.
 
-I’m a third-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). My research focus is broadly centered around **Computer Vision** and **Deep Learning**. I work on research projects dealing with Generative Adversarial Networks, Knowledge Distillation, and zero-shot classificatiom. I intend to explore deep model under low-resource training data scenario using **semi-supervised** and **self-supervised** paradigm.
-
-I have worked as a **Research Intern** at [SketchX](http://sketchx.eecs.qmul.ac.uk/) and [Inception Institute of Artificial Intelligence](http://www.inceptioniai.org/). I have also worked as a part-time **Research Engineer** at a startup [Minus Zero](https://minuszero.in/) where I worked on an autonomous electric car with level 5 autonomy.
+I have currently working as a **Research Intern** at UiT Norway. In the past, I have worked also in NVIDIA, and SketchX as **Research Intern**. I have also worked as a part-time Research Engineer at a startup, Minus Zero, where I worked on an autonomous electric car with level 5 autonomy.
 
 ### News
 
-- `[June 2021]` Got selected for Weights & Biases Machine Learning Reproducibility Challenge, Spring 2021 Grant.
-- `[June 2021]` Got selected for Prairie/MIAI Summer School 2021, INRIA.
+- `[July 2022]` Adaptive Fine-Grained Sketch-Based Image Retrieval is accpeted in the [ECCV 2022](https://eccv2022.ecva.net/).
+- `[May 2022]` Joined UiT Norway as a Research Intern.
+- `[March 2022]` Joined NVIDIA as a Research Intern.
+- `[July 2021]` Joined SketchX lab as a Research Intern.
+- `[June 2021]` Recieved Grant by Weights & Biases for ML Reproducibility Challenge, Spring 2021.
 - `[May 2021]` Volunteered for the ICLR Conference 2021.
-- `[June 2020]` Got selected for Gaussian Process Summer School 2020, Sheffield University.
 - `[September 2020]` Won Bronze Metal for Kaggle Notebook in I’m Something of a Painter Myself challenge.
 - `[July 2020]` Top 42% Worldwide in Google Landmark Recognition 2020.
