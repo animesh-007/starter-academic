@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animesh Gupta</title>
+    <link>https://animesh-007.github.io/</link>
+      <atom:link href="https://animesh-007.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Animesh Gupta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jul 2022 18:40:52 +0400</lastBuildDate>
+    <image>
+      <url>https://animesh-007.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Animesh Gupta</title>
+      <link>https://animesh-007.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Fine-Grained Sketch-Based Image Retrieval</title>
+      <link>https://animesh-007.github.io/publication/adaptive_fgsbir/</link>
+      <pubDate>Thu, 21 Jul 2022 18:40:52 +0400</pubDate>
+      <guid>https://animesh-007.github.io/publication/adaptive_fgsbir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</title>
+      <link>https://animesh-007.github.io/publication/big_bench/</link>
+      <pubDate>Thu, 21 Apr 2022 18:50:21 +0400</pubDate>
+      <guid>https://animesh-007.github.io/publication/big_bench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZSl Generative</title>
+      <link>https://animesh-007.github.io/project/zsl_generative/</link>
+      <pubDate>Thu, 29 Jul 2021 15:58:52 +0530</pubDate>
+      <guid>https://animesh-007.github.io/project/zsl_generative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I’m Something of a Painter Myself</title>
+      <link>https://animesh-007.github.io/project/monet_gan/</link>
+      <pubDate>Sat, 06 Feb 2021 21:35:11 +0530</pubDate>
+      <guid>https://animesh-007.github.io/project/monet_gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI for Blind</title>
+      <link>https://animesh-007.github.io/project/ai_for_blind/</link>
+      <pubDate>Sat, 06 Feb 2021 21:26:40 +0530</pubDate>
+      <guid>https://animesh-007.github.io/project/ai_for_blind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Landmark Recognition 2020</title>
+      <link>https://animesh-007.github.io/project/gld2020/</link>
+      <pubDate>Sat, 06 Feb 2021 21:08:10 +0530</pubDate>
+      <guid>https://animesh-007.github.io/project/gld2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
