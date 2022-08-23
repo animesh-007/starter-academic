@@ -68,9 +68,9 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I’m a Final-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). My research focus is broadly centered around **Computer Vision** and **Deep Learning**. I work on research projects dealing with Generative Adversarial Networks, Knowledge Distillation, and zero-shot classification. I intend to explore the neural networks under the low-resource training data scenario using **Knowledge Distillation** and and the **Efficient Subset selection** paradigm.
+I’m a Final-year Electronics and Computer Engineering undergraduate student at [Thapar University, Patiala, India](http://www.thapar.edu/). My research focus is broadly centered around **Computer Vision** and **Deep Learning**. I work on research projects dealing with Generative Adversarial Networks, Knowledge Distillation, and zero-shot classification. I intend to explore the neural networks under the low-resource training data scenario using **Knowledge Distillation** and the **Efficient Subset selection** paradigm.
 
-I have currently working as a **Research Intern** at UiT Norway. In the past, I have worked also in NVIDIA, and SketchX as **Research Intern**. I have also worked as a part-time Research Engineer at a startup, Minus Zero, where I worked on an autonomous electric car with level 5 autonomy.
+I am currently working as a **Research Intern** at UiT Norway. In the past, I have also worked in NVIDIA and SketchX as a **Research Intern**. I have also worked as a part-time Research Engineer at a startup, Minus Zero, where I worked on an autonomous electric car with level 5 autonomy.
 
 ### News
 

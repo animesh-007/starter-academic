@@ -1,8 +1,8 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/animesh-007/animesh-007.github.io.git
-	branch = master
 [submodule "animesh-007.github.io"]
 	path = animesh-007.github.io
 	url = https://github.com/animesh-007/animesh-007.github.io
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/animesh-007/animesh-007.github.io.git
 	branch = master
