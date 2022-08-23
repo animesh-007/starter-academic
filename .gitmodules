@@ -5,4 +5,4 @@
 [submodule "animesh-007.github.io"]
 	path = animesh-007.github.io
 	url = https://github.com/animesh-007/animesh-007.github.io
-	branch = main
+	branch = master
